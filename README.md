@@ -2,5 +2,5 @@
 
 Essa é minha solução para o Desafio 3 da STI UFF. O programa calcula o Coeficiente de Rendimento (CR) dos alunos, utilizando um arquivo .CSV como base.
 
-## ☕ Versão do Java
+## ☕ Versão do Java utilizada
 `25.0.2`
